@@ -24,32 +24,4 @@ The system invalidates the session token, clearing user data from the client sid
 Redirects to a login page or home screen, ensuring no residual access remains.
 
 
-Security Measures:
-
-
-Encryption (e.g., HTTPS, hashed passwords) protects data during transmission and storage.
-
-Rate-limiting prevents brute-force attacks.
-
-CSRF (Cross-Site Request Forgery) tokens mitigate unauthorized actions.
-
-
-Error Handling:
-
-
-Clear messages guide users for invalid credentials, locked accounts, or system errors.
-
-Logs track failed attempts for security audits.
-
-
-User Experience:
-
-
-Persistent sessions (optional "Remember Me") improve convenience.
-
-Responsive design ensures seamless access across devices.
-
-This implementation balances security and usability, adhering to best practices for authentication systems.
-
-
 👉 [Click here to try the ACCOUNT LOGIN & LOGOUT App on Hugging Face] (https://huggingface.co/spaces/DharavathSri/SridharACCOUNTLOGINLOGOUT)
