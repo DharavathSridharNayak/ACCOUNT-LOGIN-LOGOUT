@@ -25,3 +25,8 @@ Redirects to a login page or home screen, ensuring no residual access remains.
 
 
 👉 [Click here to try the ACCOUNT LOGIN & LOGOUT App on Hugging Face] (https://huggingface.co/spaces/DharavathSri/SridharACCOUNTLOGINLOGOUT)
+
+📸 Screenshot 👇
+
+![{8723C829-5A43-498A-9DFD-BEE2163320B1}](https://github.com/user-attachments/assets/dfcb68d8-6d93-432c-aa02-42910e232ea7)
+
